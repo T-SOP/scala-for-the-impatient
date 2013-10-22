@@ -7,4 +7,4 @@ my name is bong
 
 this branch space is for me !!! 
 
-
+내가 맡은 캡쳐는 5,9,13,19
