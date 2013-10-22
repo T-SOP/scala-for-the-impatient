@@ -1,5 +1,10 @@
-compile
+ensime genernate
+ensime generate
+re-run
+re-run -deprecation
 exit
-compile
 run
+ensime generate
 exit
+run
+~run
